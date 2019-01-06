@@ -1,1 +1,2 @@
 c21 echo win
+c22 check
