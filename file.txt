@@ -1,5 +1,1 @@
-c1 console master
-c2 gui master
-c3 console master
-c4 gui master
 c5 test
